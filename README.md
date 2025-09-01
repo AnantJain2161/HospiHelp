@@ -38,7 +38,7 @@ It provides appointment booking, emergency support, a medi-store, and nurse hiri
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3  
 - **Database:** MySQL  
@@ -74,7 +74,7 @@ Other tables used include:
 
 ---
 
-## 📖 Example Workflows
+##  Example Workflows
 
 - A patient books an appointment:  
   1. Enter personal details.  
