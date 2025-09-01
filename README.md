@@ -1,20 +1,20 @@
-# 🏥 HospiHelp – Hospital Assistance System
+#  HospiHelp – Hospital Assistance System
 
 HospiHelp is a **Python + MySQL-based hospital management project** that allows doctors, patients, and chemists to interact with a hospital system.  
 It provides appointment booking, emergency support, a medi-store, and nurse hiring features.
 
 ---
 
-## 📌 Features
+##  Features
 
-### 👨‍⚕️ Doctor Module
+###  Doctor Module
 - Secure login with name verification and password riddle.
 - View appointments with patients.
 - Allot time slots to patients.
 - Delete or search patient records.
 - Access nurse details.
 
-### 🧑‍🤝‍🧑 Patient Module
+###  Patient Module
 - **Emergency Help**  
   - Call an ambulance with simulated vehicle & contact details.  
   - Locate nearest hospitals.  
@@ -50,7 +50,7 @@ It provides appointment booking, emergency support, a medi-store, and nurse hiri
 
 ---
 
-## 📂 Database Structure
+##  Database Structure
 
 ### `Bookings` Table
 | Column             | Type          |
@@ -74,15 +74,6 @@ Other tables used include:
 
 ---
 
-## 🚀 How to Run
-
-1. Install Python 3 and MySQL.  
-2. Create a database named `hospihelp`.  
-3. Run the Python script (`hospihelp.py`).  
-4. Log in as **Doctor** or **Patient** and explore features.  
-
----
-
 ## 📖 Example Workflows
 
 - A patient books an appointment:  
@@ -98,7 +89,7 @@ Other tables used include:
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 - Add GUI (Tkinter/Flask/Django).  
 - Improve authentication (hashed passwords).  
 - Online payment integration for appointments and medicines.  
@@ -106,5 +97,5 @@ Other tables used include:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Project developed by **Anant Jain** (XII Aquila).  
